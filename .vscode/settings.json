@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/65b0845e-6330-4f82-9175-d42794c42b70/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/cmuexploreAPI",
+    "appService.deploySubpath": "backend"
+}
